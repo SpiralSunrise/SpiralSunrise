@@ -1,7 +1,7 @@
-- Kristina @SpiralSunrise
-- Teacher / Maker / Solver
-- 2022LIMK02
-- vftmnet@gmail.com
+Kristina @SpiralSunrise
+Teacher / Maker / Solver
+2022LIMK02
+vftmnet@gmail.com
 
 <!---
 SpiralSunrise/SpiralSunrise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
